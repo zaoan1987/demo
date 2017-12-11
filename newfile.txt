@@ -1,0 +1,8 @@
+bug.bin
+dog.bin
+foot.txt
+new-commit.txt
+newfile.txt
+src.txt
+welcome
+welcome.txt
