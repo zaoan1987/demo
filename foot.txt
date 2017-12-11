@@ -1,0 +1,4 @@
+foot.txt
+new-commit.txt
+welcome
+welcome.txt
